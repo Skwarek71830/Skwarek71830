@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a few private projects in React and Next.js**
 
-- 👨‍💻 All of my projects are available at [www.jakubskwaurn.pl](https://jakubskwaurn.pl)
+- 👨‍💻 All of my projects are available at [www.jakubskwarun.pl](https://www.jakubskwarun.pl)
 
 - 📫 How to reach me **jakub.skwarun@gmail.com**
 
